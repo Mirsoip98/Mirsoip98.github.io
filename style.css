@@ -1,0 +1,57 @@
+*{
+	padding: 0;
+	margin: 0;
+	color: white;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+#left{
+	height: 90px;
+	width: 98%;
+	background-color: #C0C0C0;
+	text-align: center;
+	margin-top: 20px;
+	border-radius: 3em;
+	padding: 1em;
+	box-shadow: 0 0 0 .6em #808080;
+	
+}
+html{
+	background-color: #C0C0C0;
+	background-image: url('https://wallpapercave.com/wp/MOc1g4S.jpg');
+	background-repeat: no-repeat;
+}
+dt, dd{ display; inline;}
+dt {
+font-size: 30pt;
+margin-top: 30px;
+margin-left: 30px;
+
+}
+dd {
+	margin-top: 10px;
+	margin-left: 30px;
+	font-weight: bold;
+	font-size: 30pt;
+}
+dd::after{
+	content: "\A";
+	white-space: pre;
+}
+#right{
+	margin-top: 30px;
+	margin-left: 30px;
+	font-size: 30px;
+}
+body {
+	text-align: 
+}
+#ong{
+	margin-left: 70%;
+	overflow: hidden;			
+	padding: 30px;	
+}
+#chap{
+	float:left;
+	max-width: 70%;
+	margin:0;
+}
